@@ -1,0 +1,6 @@
+﻿  Meta Forensics.cpp
+C:\Users\amyra\source\repos\Meta Forensics\Meta Forensics\Meta Forensics.cpp(27,34): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\amyra\source\repos\Meta Forensics\Meta Forensics\Meta Forensics.cpp(294,52): error C2589: '(': illegal token on right side of '::'
+C:\Users\amyra\source\repos\Meta Forensics\Meta Forensics\Meta Forensics.cpp(294,79): error C2059: syntax error: ')'
+C:\Users\amyra\source\repos\Meta Forensics\Meta Forensics\Meta Forensics.cpp(332,43): error C2589: '(': illegal token on right side of '::'
+C:\Users\amyra\source\repos\Meta Forensics\Meta Forensics\Meta Forensics.cpp(332,71): error C2059: syntax error: ')'

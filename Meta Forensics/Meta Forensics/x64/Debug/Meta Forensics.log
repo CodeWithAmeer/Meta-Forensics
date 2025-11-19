@@ -1,0 +1,5 @@
+﻿  Meta Forensics.cpp
+C:\Users\amyra\source\repos\Meta Forensics\Meta Forensics\Meta Forensics.cpp(1392,5): error C2084: function 'int main(void)' already has a body
+      C:\Users\amyra\source\repos\Meta Forensics\Meta Forensics\Meta Forensics.cpp(1308,5):
+      see previous definition of 'main'
+  
